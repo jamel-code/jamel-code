@@ -8,6 +8,7 @@ Welcome to my GitHub! I'm a passionate coder currently diving into **Python** an
 - 🌱 I’m constantly growing and improving my coding abilities.
 - 🛠️ Languages & Tools:
   - **Python**
+  - Currently learning **Arduino**
   
 ### 📂 Current Projects
 - I'm working on a fun chatbot project for my school.
